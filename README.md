@@ -1,0 +1,1 @@
+This file takes Cadence (Virtuoso) butterfly plots generated for the analysis of SRAM circuitry and calculates the minimum square that fits between the the two plots. This takes a generalized number of plots and provides a CSV allowing for easy analysis of optimal transistor sizing.
